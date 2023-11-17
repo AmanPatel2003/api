@@ -1,0 +1,59 @@
+{
+  "weapon": [
+    {
+      "id": 1,
+      "weapon1": "a",
+      "weapon2": "grenad"
+    },
+    {
+      "id": 2,
+      "weapon1": "b",
+      "weapon2": "grenad"
+    },
+    {
+      "id": 3,
+      "weapon1": "c",
+      "weapon2": "grenad"
+    },
+    {
+      "id": 4,
+      "weapon1": "dd",
+      "weapon2": "grenad"
+    },
+    {
+      "id": 5,
+      "weapon1": "d",
+      "weapon2": "grenad"
+    },
+    {
+      "id": 6,
+      "weapon1": "e",
+      "weapon2": "grenad"
+    },
+    {
+      "id": 7,
+      "weapon1": "f",
+      "weapon2": "grenad"
+    },
+    {
+      "id": 8,
+      "weapon1": "G",
+      "weapon2": "grenad"
+    },
+    {
+      "id": 9,
+      "weapon1": "h",
+      "weapon2": "grenad"
+    },
+    {
+      "id": 10,
+      "weapon1": "i",
+      "weapon2": "grenad"
+    },
+    {
+      "id": 11,
+      "weapon1": "j",
+      "weapon2": "grenad"
+    }
+  ]
+}

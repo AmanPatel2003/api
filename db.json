@@ -1,79 +1,94 @@
 {
-"users":[
-  {
-    "firstName": "Aman",
-    "lastName": "Patel",
-    "age": 30,
-    "id": 1
-  },
-  {
-    "firstName": "Sara",
-    "lastName": "Johnson",
-    "age": 30,
-    "subjectId":1,
-    "id": 2
-  },
-  {
-    "firstName": "John",
-    "lastName": "Smith",
-    "age": 28,
-    "id": 3
-  },
-  {
-    "firstName": "Emily",
-    "lastName": "Davis",
-    "age": 25,
-    "subjectId": 1,
-    "id": 4
-  },
-  {
-    "firstName": "Michael",
-    "lastName": "Lee",
-    "age": 35,
-    "id": 5
-  },
-  {
-    "firstName": "Sophia",
-    "lastName": "Brown",
-    "age": 22,
-    "id": 6
-  },
-  {
-    "firstName": "Daniel",
-    "lastName": "Nguyen",
-    "age": 27,
-    "id": 7
-  },
-  {
-    "firstName": "Olivia",
-    "lastName": "Garcia",
-    "age": 31,
-    "id": 8
-  },
-  {
-    "firstName": "Ethan",
-    "lastName": "Miller",
-    "age": 26,
-    "id": 9
-  },
-  {
-    "firstName": "Ava",
-    "lastName": "Taylor",
-    "age": 29,
-    "id": 10
-  }
-],"subjects":[
-  { "name": "autometa", "pages": 400 ,"id":1},
-  { "name": "Quantum Computing", "pages": 350, "id": 2 },
-  { "name": "Artificial Intelligence", "pages": 500, "id": 3 },
-  { "name": "Data Science Essentials", "pages": 300, "id": 4},
-  { "name": "The Web Developer's Guide", "pages": 450, "id": 5 },
-  { "name": "Machine Learning Basics", "pages": 380, "id": 6},
-  { "name": "Cybersecurity Fundamentals", "pages": 420, "id": 7 },
-  { "name": "Blockchain Revolution", "pages": 550, "id": 8 },
-  { "name": "Python Programming", "pages": 320, "id": 9},
-  { "name": "Space Exploration", "pages": 600, "id": 10 }
-]
+  "users": [
+    {
+      "firstName": "Aman",
+      "lastName": "Patel",
+      "age": 30,
+      "idNumber": 7001,
+      "id": 1
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Johnson",
+      "age": 30,
+      "idNumber": 7002,
+      "id": 2
+    },
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "age": 28,
+      "idNumber": 7003,
+      "id": 3
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "age": 25,
 
-
+      "idNumber": 7004,
+      "id": 4
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Lee",
+      "age": 35,
+      "idNumber": 7005,
+      "id": 5
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Brown",
+      "age": 22,
+      "idNumber": 7006,
+      "id": 6
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Nguyen",
+      "age": 27,
+      "idNumber": 7007,
+      "id": 7
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Garcia",
+      "age": 31,
+      "idNumber": 7008,
+      "id": 8
+    },
+    {
+      "firstName": "Ethan",
+      "lastName": "Miller",
+      "age": 26,
+      "idNumber": 709,
+      "id": 9
+    },
+    {
+      "firstName": "Ava",
+      "lastName": "Taylor",
+      "age": 29,
+      "idNumber": 7010,
+      "id": 10
+    },
+    {
+      "firstName": "Ava",
+      "lastName": "Taylor",
+      "age": 29,
+      "idNumber": 7011,
+      "id": 11
+    }
+  ],
+  "subjects": [
+    { "name": "autometa", "pages": 400, "id": 1 },
+    { "name": "Quantum Computing", "pages": 350, "id": 2 },
+    { "name": "Artificial Intelligence", "pages": 500, "id": 3 },
+    { "name": "Data Science Essentials", "pages": 300, "id": 4 },
+    { "name": "The Web Developer's Guide", "pages": 450, "id": 5 },
+    { "name": "Machine Learning Basics", "pages": 380, "id": 6 },
+    { "name": "Cybersecurity Fundamentals", "pages": 420, "id": 7 },
+    { "name": "Blockchain Revolution", "pages": 550, "id": 8 },
+    { "name": "Python Programming", "pages": 320, "id": 9 },
+    { "name": "Space Exploration", "pages": 600, "id": 10 }
+  ]
 }
