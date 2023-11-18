@@ -2,58 +2,58 @@
   "weapon": [
     {
       "id": 1,
-      "weapon1": "a",
-      "weapon2": "grenad"
+      "weapon1": "SWORD",
+      "weapon2": "DAGGER"
     },
     {
       "id": 2,
-      "weapon1": "b",
-      "weapon2": "grenad"
+      "weapon1": "SPEAR",
+      "weapon2": "AXE"
     },
     {
       "id": 3,
-      "weapon1": "c",
-      "weapon2": "grenad"
+      "weapon1": "GRENADE",
+      "weapon2": "REVOLVER"
     },
     {
       "id": 4,
-      "weapon1": "dd",
-      "weapon2": "grenad"
+      "weapon1": "SICKLE",
+      "weapon2": "PISTOL"
     },
     {
       "id": 5,
-      "weapon1": "d",
-      "weapon2": "grenad"
+      "weapon1": "BOW&ARROW",
+      "weapon2": "GRENADE"
     },
     {
       "id": 6,
-      "weapon1": "e",
-      "weapon2": "grenad"
+      "weapon1": "SICKLE",
+      "weapon2": "PISTOL"
     },
     {
       "id": 7,
-      "weapon1": "f",
-      "weapon2": "grenad"
+      "weapon1": "SPEAR",
+      "weapon2": "AXE"
     },
     {
       "id": 8,
-      "weapon1": "G",
-      "weapon2": "grenad"
+      "weapon1": "SICKLE",
+      "weapon2": "PISTOL"
     },
     {
       "id": 9,
-      "weapon1": "h",
-      "weapon2": "grenad"
+      "weapon1": "SPEAR",
+      "weapon2": "AXE"
     },
     {
       "id": 10,
-      "weapon1": "i",
-      "weapon2": "grenad"
+      "weapon1": "SICKLE",
+      "weapon2": "PISTOL"
     },
     {
       "id": 11,
-      "weapon1": "j",
-      "weapon2": "grenad"
+      "weapon1": "SPEAR",
+      "weapon2": "AXE"
     }
   ]
 }
